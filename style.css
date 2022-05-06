@@ -1,0 +1,86 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #fafbff;
+}
+
+header {
+    background-image: url(header-bg.png);
+    height: 600px;
+}
+
+.dash-img{
+    width: 800px;
+    margin-top: -170px;
+}
+
+.client-logo{
+    width: 1000px;
+}
+
+.female-img{
+    width: 600px;
+    height: 600px;
+}
+.credit-img{
+    width: 500px;
+    /* padding-right: 40px; */
+}
+.vid-img{
+    width: 600px;
+}
+.num-item{
+    background-color: #1b1c31;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    padding: 8px;
+    color: #666;
+    text-align: center;    
+}
+.itm-desc{
+    color: #A0B3E9;
+}
+.itm-ctnt{
+    margin-left: -30px;
+}
+h6{
+    color: #3734a9;
+}
+.container-fluid{
+    background-color: #3734a9;
+}
+
+.inner-section{
+    border-color: #DEE1E6;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.fa-shield-halved{
+    background-color: #EBECE8;
+    size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.fa-building{
+    background-color: #EBECE8;
+    size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.fa-server{
+    background-color: #EBECE8;
+    size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.fa-circle-play{
+    color: #22d497;
+}
+.mycard{
+    
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
